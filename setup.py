@@ -11,7 +11,6 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 requirements = [
     "asgiref>=3",
     "backports.zoneinfo>=0.2",
-    "Django>=4.",
     "django-formtools>=2",
     "pycodestyle>=2",
     "sqlparse>=0.4",
